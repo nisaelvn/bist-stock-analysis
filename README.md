@@ -26,9 +26,10 @@ Bu proje, Borsa İstanbul (BIST) hisseleri için *Python ile veri toplama, anali
 Projemin klasör düzeni şu şekilde:
 
 - *data/* → Hisse senedi verilerinin CSV dosyaları burada saklanıyor.  
-- *figures/* → Grafikleri burada bulabilirsiniz (kapanış fiyatı, getiriler, SMA, volatilite).  
+- *figures/* → Grafikleri burada bulabilirsiniz (kapanış fiyatı, günlük getiriler, SMA, volatilite).  
 - *data_fetch_and_eda.py* → Tüm işlemleri yapan Python dosyası.  
 - *SUMMARY.md* → Programın otomatik oluşturduğu özet rapor (istatistikler + analiz). 
+- README.md → Projenin açıklama dosyası 
 
 ---
 
@@ -62,14 +63,44 @@ python data_fetch_and_eda.py BIMAS
 	•	figures/ klasörüne grafikler kaydedilir
 	•	SUMMARY.md dosyasında özet rapor güncellenir
 
-## 📈 Örnek Sonuçlar ve Görseller
 
-THYAO için kapanış grafiği 
-Votalite grafiği
+## 📊 Örnek Sonuçlar ve Görseller
+
+### THYAO
+Kapanış fiyatı:  
+![THYAO Kapanış Grafiği](figures/THYAO_IS_close.png)
+
+Volatilite:  
+![THYAO Volatilite Grafiği](figures/THYAO_IS_volatility.png)
+
+---
+### ASELS
+Kapanış fiyatı:  
+![ASELS Kapanış Grafiği](figures/ASELS_IS_close.png)
+
+Volatilite:  
+![ASELS Volatilite Grafiği](figures/ASELS_IS_volatility.png)
+
+---
+### GARAN
+Kapanış fiyatı:  
+![GARAN Kapanış Grafiği](figures/GARAN_IS_close.png)
+
+Volatilite:  
+![GARAN Volatilite Grafiği](figures/GARAN_IS_volatility.png)
+
+---
+### BIMAS
+Kapanış fiyatı:  
+![BIMAS Kapanış Grafiği](figures/BIMAS_IS_close.png)
+
+Volatilite:  
+![BIMAS Volatilite Grafiği](figures/BIMAS_IS_volatility.png)
 
 ## 📝 Notlar
 
 	•	Varsayılan sembol THYAO.IS
-	•	Kod kolayca diğer hisseler için de kullanılabilir (python data_fetch_and_eda.py ASELS) (.IS yazmasanız da otomatik eklenir) 
+	•	Kod kolayca diğer hisseler için de kullanılabilir:(python data_fetch_and_eda.py ASELS) 
+    •   .IS uzantısını yazmasanız da otomatik eklenir (örn ASELS -> ASELS.IS )
 	•	Grafikler figures/ klasörüne kaydedilir.
 	•	Özet rapor SUMMARY.md dosyasında bulunur.
