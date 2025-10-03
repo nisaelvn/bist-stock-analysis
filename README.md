@@ -66,41 +66,37 @@ python data_fetch_and_eda.py BIMAS
 
 ## 📊 Örnek Sonuçlar ve Görseller
 
+## 📊 Örnek Sonuçlar ve Görseller
+
 ### THYAO
-Kapanış fiyatı:  
-![THYAO Kapanış Grafiği](figures/THYAO_IS_close.png)
-
-Volatilite:  
-![THYAO Volatilite Grafiği](figures/THYAO_IS_volatility.png)
+| Kapanış Fiyatı | Volatilite |
+| --- | --- |
+| <img src="figures/THYAO_IS_close.png" width="400"> | <img src="figures/THYAO_IS_volatility.png" width="400"> |
 
 ---
+
 ### ASELS
-Kapanış fiyatı:  
-![ASELS Kapanış Grafiği](figures/ASELS_IS_close.png)
-
-Volatilite:  
-![ASELS Volatilite Grafiği](figures/ASELS_IS_volatility.png)
+| Kapanış Fiyatı | Volatilite |
+| --- | --- |
+| <img src="figures/ASELS_IS_close.png" width="400"> | <img src="figures/ASELS_IS_volatility.png" width="400"> |
 
 ---
+
 ### GARAN
-Kapanış fiyatı:  
-![GARAN Kapanış Grafiği](figures/GARAN_IS_close.png)
-
-Volatilite:  
-![GARAN Volatilite Grafiği](figures/GARAN_IS_volatility.png)
+| Kapanış Fiyatı | Volatilite |
+| --- | --- |
+| <img src="figures/GARAN_IS_close.png" width="400"> | <img src="figures/GARAN_IS_volatility.png" width="400"> |
 
 ---
-### BIMAS
-Kapanış fiyatı:  
-![BIMAS Kapanış Grafiği](figures/BIMAS_IS_close.png)
 
-Volatilite:  
-![BIMAS Volatilite Grafiği](figures/BIMAS_IS_volatility.png)
+### BIMAS
+| Kapanış Fiyatı | Volatilite |
+| --- | --- |
+| <img src="figures/BIMAS_IS_close.png" width="400"> | <img src="figures/BIMAS_IS_volatility.png" width="400"> |
 
 ## 📝 Notlar
 
-	•	Varsayılan sembol THYAO.IS
-	•	Kod kolayca diğer hisseler için de kullanılabilir:(python data_fetch_and_eda.py ASELS) 
-    •   .IS uzantısını yazmasanız da otomatik eklenir (örn ASELS -> ASELS.IS )
+	•	Varsayılan sembol THYAO.IS / Kod kolayca diğer hisseler için de kullanılabilir:(python data_fetch_and_eda.py ASELS) 
+    •   .IS uzantısını yazmasanız da otomatik eklenir (örn: ASELS → ASELS.IS)
 	•	Grafikler figures/ klasörüne kaydedilir.
-	•	Özet rapor SUMMARY.md dosyasında bulunur.
+	•	Özet rapor SUMMARY.md dosyasında bulunur. 
