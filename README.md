@@ -64,7 +64,7 @@ python data_fetch_and_eda.py BIMAS
 
 ## 📈 Örnek Sonuçlar ve Görseller
 
-THYAO için kapagrafiğinış 
+THYAO için kapanış grafiği 
 Votalite grafiği
 
 ## 📝 Notlar
@@ -73,4 +73,3 @@ Votalite grafiği
 	•	Kod kolayca diğer hisseler için de kullanılabilir (python data_fetch_and_eda.py ASELS) (.IS yazmasanız da otomatik eklenir) 
 	•	Grafikler figures/ klasörüne kaydedilir.
 	•	Özet rapor SUMMARY.md dosyasında bulunur.
-    
