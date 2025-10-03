@@ -71,28 +71,28 @@ python data_fetch_and_eda.py BIMAS
 ### THYAO
 | Kapanış Fiyatı | Volatilite |
 | --- | --- |
-| <img src="figures/THYAO_IS_close.png" width="400"> | <img src="figures/THYAO_IS_volatility.png" width="400"> |
+| <img src="figures/THYAO_IS_close.png" width="400"> | <img src="figures/THYAO_IS_volatility.png" width="450"> |
 
 ---
 
 ### ASELS
 | Kapanış Fiyatı | Volatilite |
 | --- | --- |
-| <img src="figures/ASELS_IS_close.png" width="400"> | <img src="figures/ASELS_IS_volatility.png" width="400"> |
+| <img src="figures/ASELS_IS_close.png" width="400"> | <img src="figures/ASELS_IS_volatility.png" width="450"> |
 
 ---
 
 ### GARAN
 | Kapanış Fiyatı | Volatilite |
 | --- | --- |
-| <img src="figures/GARAN_IS_close.png" width="400"> | <img src="figures/GARAN_IS_volatility.png" width="400"> |
+| <img src="figures/GARAN_IS_close.png" width="400"> | <img src="figures/GARAN_IS_volatility.png" width="450"> |
 
 ---
 
 ### BIMAS
 | Kapanış Fiyatı | Volatilite |
 | --- | --- |
-| <img src="figures/BIMAS_IS_close.png" width="400"> | <img src="figures/BIMAS_IS_volatility.png" width="400"> |
+| <img src="figures/BIMAS_IS_close.png" width="400"> | <img src="figures/BIMAS_IS_volatility.png" width="450"> |
 
 ## 📝 Notlar
 
