@@ -99,3 +99,15 @@ python data_fetch_and_eda.py BIMAS
     •   .IS uzantısını yazmasanız da otomatik eklenir (örn: ASELS → ASELS.IS)
 	•	Grafikler figures/ klasörüne kaydedilir.
 	•	Özet rapor SUMMARY.md dosyasında bulunur. 
+
+
+## 📌 Sonuçlar  
+
+Bu proje kapsamında Borsa İstanbul (BIST) hisselerinin geçmiş fiyat verileri analiz edilmiştir.  
+Kapanış fiyatı ve volatilite grafiklerinden, hisse senetlerinin fiyat trendleri ve oynaklıkları gözlemlenmiştir.  
+
+- 📈 **Kapanış fiyatı grafikleri**, hisselerin uzun vadeli fiyat hareketlerini ortaya koyar.  
+- 📊 **Volatilite grafikleri**, fiyatlardaki dalgalanma seviyesini gösterir.  
+
+Bu proje, temel veri analizi ve görselleştirme tekniklerini öğrenmek isteyenler için bir örnek niteliği taşımaktadır.  
+Elde edilen çıktılar, yatırım kararları için doğrudan öneri değildir; yalnızca **eğitim ve analiz amaçlıdır**.
