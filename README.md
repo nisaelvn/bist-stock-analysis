@@ -64,7 +64,6 @@ python data_fetch_and_eda.py BIMAS
 	•	SUMMARY.md dosyasında özet rapor güncellenir
 
 
-## 📊 Örnek Sonuçlar ve Görseller
 
 ## 📊 Örnek Sonuçlar ve Görseller
 
