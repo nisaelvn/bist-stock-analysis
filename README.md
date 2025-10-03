@@ -111,3 +111,16 @@ Kapanış fiyatı ve volatilite grafiklerinden, hisse senetlerinin fiyat trendle
 
 Bu proje, temel veri analizi ve görselleştirme tekniklerini öğrenmek isteyenler için bir örnek niteliği taşımaktadır.  
 Elde edilen çıktılar, yatırım kararları için doğrudan öneri değildir; yalnızca **eğitim ve analiz amaçlıdır**.
+
+
+## 🚀 Sonraki Adımlar  
+
+Bu proje temel veri analizi ve görselleştirme üzerine odaklanmaktadır.  
+Gelecekte proje şu yönlerde genişletilebilir:  
+
+- 🤖 **Makine Öğrenmesi**: Hisse senedi fiyat tahmini için ARIMA, LSTM veya diğer zaman serisi modelleri uygulanabilir.  
+- 📊 **Portföy Analizi**: Birden fazla hissenin getirileri ve riskleri karşılaştırılarak portföy optimizasyonu yapılabilir.  
+- 🌍 **Daha Fazla Veri**: Farklı endekslerden (NASDAQ, S&P500 vb.) veriler eklenerek küresel analiz yapılabilir.  
+- 📈 **Etkileşimli Grafikler**: Plotly veya Dash kullanılarak web tabanlı etkileşimli görselleştirmeler hazırlanabilir.  
+
+Bu geliştirmeler ile proje, yatırım analizlerinde daha güçlü ve kapsamlı bir araç haline gelebilir.
